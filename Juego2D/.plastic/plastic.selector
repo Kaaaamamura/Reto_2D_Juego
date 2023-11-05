@@ -1,0 +1,4 @@
+repository "Juego2D@MindOfKamamura@cloud"
+  path "/"
+    br "/main"
+    co "/main"
